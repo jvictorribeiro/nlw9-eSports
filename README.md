@@ -57,4 +57,11 @@ $ expo start
 ```
 
 
+#TO-DO
+- Responsividade
+- Carrossel - Keen Slider
+- Radio no select
+- Validação - React-hook-form no front
+- Autenticação - logar com twich ou discord
+
 <h3 align=center>Made by <a href="https://www.linkedin.com/in/victor-ribeiroo//">Jv</a></h3>
